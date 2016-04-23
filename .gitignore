@@ -12,7 +12,8 @@
 bin/
 gen/
 out/
-
+#Intellij IDE, all the project specific settings for project are stored in this folder
+.idea
 # Gradle files
 .gradle/
 build/
